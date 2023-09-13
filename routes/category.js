@@ -3,6 +3,4 @@ const ctrls = require('../controllers/category')
 
 
 
-
-
 module.exports = router
